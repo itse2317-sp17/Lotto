@@ -20,7 +20,6 @@ import java.util.Scanner;
     System.out.print("Enter your lottery pick (two digits): ");
     String guess = input.nextLine();
     // Get digits from lottery
-    // Test Update
     char lotteryDigit1 = lottery.charAt(0); 
     char lotteryDigit2 = lottery.charAt(1); 
     // Get digits from guess
